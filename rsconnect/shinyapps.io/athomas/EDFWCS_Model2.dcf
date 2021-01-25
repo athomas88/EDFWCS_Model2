@@ -1,0 +1,12 @@
+name: EDFWCS_Model2
+title: EDFWCS_Model2
+username:
+account: athomas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1424836
+bundleId: 2571003
+url: https://athomas.shinyapps.io/EDFWCS_Model2/
+when: 1573127545.16108
+asMultiple: FALSE
+asStatic: FALSE
